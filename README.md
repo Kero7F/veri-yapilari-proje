@@ -9,4 +9,4 @@ Bu projede 3 farklı C algoritması bulunmaktadır.
 Dizi, bir büyük bir küçük olacak şekilde özel bir algoritma ile sıralanmıştır. Örneğin: (60, 80, 3, 9) → (80, 3, 60, 9)
 
 ## Soru 3
-Trie (metin ağacı) veri yapısı açıklanmış ve C dili ile örnek bir uygulaması yapılmıştır. `"book"`, `"boss"`, `"bat"` gibi kelimeler eklenmiş ve `"bus"` gibi kelimelerin olup olmadığı test edilmiştir.
+Trie (metin ağacı) veri yapısı açıklanmış ve C dili ile örnek bir uygulaması yapılmıştır. `"cat"`, `"car"`, `"dog"` gibi kelimeler eklenmiş ve kelimelerin olup olmadığı test edilmiştir.
